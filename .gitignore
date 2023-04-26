@@ -74,6 +74,9 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 <<<<<<< HEAD
 #Content
-Content/*
+Content/*/**
+!Content/DiabloClone/**
+
+
 =======
 >>>>>>> parent of 9df8e23 (Start)

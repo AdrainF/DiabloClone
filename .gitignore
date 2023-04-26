@@ -1,4 +1,4 @@
-# Visual Studio 2015 user specific files
+-# Visual Studio 2015 user specific files
 .vs/
 
 # Compiled Object files
@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+<<<<<<< HEAD
+#Content
+Content/*
+=======
+>>>>>>> parent of 9df8e23 (Start)
